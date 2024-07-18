@@ -14,7 +14,7 @@ HTML CSS learning project for begginers
 
 Site published at: tropikalis.github.io/Coming/
 
-Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
+Design: [Coming]
 
 ## 🎯 Project features/goals
 
