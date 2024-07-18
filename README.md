@@ -14,7 +14,7 @@ HTML CSS learning project for begginers
 
 Site published at: https://tropikalis.github.io/Coming/
 
-Design: [Coming] https://in.pinterest.com/pin/436497388868754212/ 
+Design: [Coming] https://trendytheme.net/demo/materialcomingsoon/ 
 
 ## 🎯 Project features/goals
 
