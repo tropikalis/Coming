@@ -12,7 +12,7 @@ _website design project_
 
 HTML CSS learning project for begginers
 
-Site published at: tropikalis.github.io/Coming/
+Site published at: https://tropikalis.github.io/Coming/
 
 Design: [Coming]
 
