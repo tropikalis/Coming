@@ -7,3 +7,16 @@
 /* components */
 
 /* CUSTOM STYLE */
+
+.logo {
+   width: 50px;
+}
+.main-title {
+    font-size: 65px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.main-description {
+    font-size: 20px;
+    text-align: center;
+}
