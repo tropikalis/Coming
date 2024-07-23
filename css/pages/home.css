@@ -40,8 +40,11 @@ footer.container {
     color: #fff;
     text-decoration: none;
     border-radius: 50%;
+    transition: color 1s, background-color 1s;
+    /* transition: all 0.3s; */
 }
 .row.socials > a:hover {
     background-color: #fff;
     color: #03a9f4;
+    /*transition: color 1s;*/
 }
