@@ -22,7 +22,7 @@
     width: 90%;
 }
 .progress-bar .progress > .bar {
-    background-color: #03a9f4;
+    background-color: var(--main-color);
     height: 100%;
     width: 100%;
     animation-name: loading;
