@@ -2,11 +2,8 @@
 :root {
    --main-color: #03a9f4;
    --secondary-color: #ea1e63;
-   --size-min: 15px;
-   --size-default: 25px;
-   --size-max: 40px;
-   --size: 15px 40px;
-   --size-combo: var(--size-min) var(--size-max);
+   --secondary-color-dark: #b00c42;
+  
 }
 
 body, 
@@ -25,6 +22,6 @@ body {
     background-color: var(--main-color);
 }
 .bg-secondary {
-    background-color: rgba(var(--secondary-color);
+    background-color: var(--secondary-color);
 }
 
