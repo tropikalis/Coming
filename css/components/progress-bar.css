@@ -18,10 +18,30 @@
     background-color: #ccc;
 }
 .progress-bar > .bottom > .progress {
-    background-color: #03a9f4;
-    width: 90%;
     height: 100%;
+    width: 90%;
 }
-.progress-bar:last-of-type > .bottom > .progress {
-    width: 50%;
+.progress-bar .progress > .bar {
+    background-color: var(--main-color);
+    height: 100%;
+    width: 100%;
+    animation-name: loading;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-timing-function: linear; /*steps(5);*/
+    /* animation-play-state: paused; */
+}
+/* .progress-bar:hover .prpgress > .bar {
+    animation-play-state: running;
+} */
+
+@keyframes loading {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 100%;
+    }
 }
